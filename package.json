@@ -1,0 +1,34 @@
+{
+  "name": "strapi-agile-peak",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Strapi on Render",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/plugin-i18n": "^4.3.6",
+    "@strapi/plugin-users-permissions": "^4.3.6",
+    "@strapi/provider-email-nodemailer": "^4.3.6",
+    "@strapi/provider-upload-aws-s3": "^4.3.6",
+    "@strapi/strapi": "^4.3.6",
+    "better-sqlite3": "^7.6.2",
+    "pg": "^8.8.0",
+    "pg-connection-string": "^2.5.0"
+  },
+  "author": {
+    "name": "Mark Hillard"
+  },
+  "strapi": {
+    "uuid": "e8d1679e-5a31-4364-99f0-28a55a120a13"
+  },
+  "engines": {
+    "node": "^16.17.0",
+    "npm": "^8.17.0"
+  },
+  "license": "MIT"
+}
