@@ -51,4 +51,3 @@ databases:
   - name: strapi-agile-peak
     plan: free
     region: ohio
-    databaseName: strapi-agile-peak
