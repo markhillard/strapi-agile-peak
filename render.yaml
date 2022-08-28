@@ -5,7 +5,7 @@ services:
     plan: free
     region: ohio
     repo: https://github.com/markhillard/strapi-agile-peak.git
-    branch: main
+    branch: master
     buildCommand: yarn install && yarn build
     startCommand: yarn start
     healthCheckPath: /_health
