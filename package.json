@@ -11,12 +11,12 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "^4.5.2",
-    "@strapi/plugin-users-permissions": "^4.5.2",
-    "@strapi/provider-email-nodemailer": "^4.5.2",
-    "@strapi/provider-upload-aws-s3": "^4.5.2",
-    "@strapi/strapi": "^4.5.2",
-    "better-sqlite3": "^7.6.2",
+    "@strapi/plugin-i18n": "^4.5.3",
+    "@strapi/plugin-users-permissions": "^4.5.3",
+    "@strapi/provider-email-nodemailer": "^4.5.3",
+    "@strapi/provider-upload-aws-s3": "^4.5.3",
+    "@strapi/strapi": "^4.5.3",
+    "better-sqlite3": "^8.0.1",
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0"
   },
@@ -27,8 +27,8 @@
     "uuid": "e8d1679e-5a31-4364-99f0-28a55a120a13"
   },
   "engines": {
-    "node": "^16.17.0",
-    "npm": "^8.17.0"
+    "node": "^18.12.1",
+    "npm": "^9.1.2"
   },
   "license": "MIT"
 }
