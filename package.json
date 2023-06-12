@@ -11,11 +11,11 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "^4.9.2",
-    "@strapi/plugin-users-permissions": "^4.9.2",
-    "@strapi/provider-email-nodemailer": "^4.9.2",
-    "@strapi/provider-upload-aws-s3": "^4.9.2",
-    "@strapi/strapi": "^4.9.2",
+    "@strapi/plugin-i18n": "^4.11.1",
+    "@strapi/plugin-users-permissions": "^4.11.1",
+    "@strapi/provider-email-nodemailer": "^4.11.1",
+    "@strapi/provider-upload-aws-s3": "^4.11.1",
+    "@strapi/strapi": "^4.11.1",
     "better-sqlite3": "^8.0.1",
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0"
