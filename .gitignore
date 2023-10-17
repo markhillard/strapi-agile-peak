@@ -111,5 +111,6 @@ license.txt
 exports
 *.cache
 build
+types
 .strapi-updater.json
 package-lock.json
