@@ -37,7 +37,7 @@ services:
       - key: NODE_ENV
         value: production
       - key: NODE_VERSION
-        value: ^16.17.0
+        value: ^18.19.0
       - key: SMTP_HOST
         sync: false
       - key: SMTP_PASSWORD
